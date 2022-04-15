@@ -1,7 +1,7 @@
 const express = require("express");
 const cors = require("cors");
 // import Stripe from 'stripe';
-const Stripe = require('strip');
+const Stripe = require('stripe');
 
 const app = express();
 
